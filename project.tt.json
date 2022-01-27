@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "Jeweler",
+  "description": "宝石商人👨🏻",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
